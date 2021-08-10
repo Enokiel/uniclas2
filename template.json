@@ -1,0 +1,57 @@
+{
+    "Actor": {},
+    "Item": {
+        "types": [
+            "weapon",
+            "vehicle"
+        ],
+        "template": {
+            "itemDescription": {
+                "description": ""
+            }
+        },
+        "weapon": {
+            "template": ["itemDescription"],
+            "skill": "guns",
+            "damage": 0,
+            "capacity": 0,
+            "encumberanceValue": 0,
+            "range": 0,
+            "cost": 0
+        },
+        "vehicle": {
+            "template": ["itemDescription"],
+            "weight": 0,
+            "speed": 0,
+            "acceleration": 0,
+            "range": 0,
+            "toughness": 0,
+            "handling": 0,
+            "dc": 0,
+            "av": 0,
+            "accuracy": 0,
+            "cost": 0,
+            "crew": 0,
+            "passengers": 0,
+            "cargo": 0,
+            "armamentRange": 0,
+            "armamentDmg": 0,
+            "armamentCap": 0,
+            "armamentQual1": "",
+            "armamentQual2": "",
+            "armamentQual3": "",
+            "armamentQual4": "",
+            "armamentQual5": "",
+            "accessory1": "",
+            "accessory2": "",
+            "accessory3": "",
+            "accessory4": "",
+            "accessory5": "",
+            "accessory6": "",
+            "accessory7": "",
+            "accessory8": "",
+            "accessory9": "",
+            "accessory0": ""
+        }
+    }
+}

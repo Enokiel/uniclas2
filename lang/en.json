@@ -1,0 +1,21 @@
+{
+    "uniclas": {
+        "attack": {
+            "gunsAssaultRifle": "Guns (Assault Rifle)",
+            "gunsMissile": "Guns (Missile)",
+            "gunsPistol": "Guns (Pistol)",
+            "gunsRifle": "Guns (Rifle)",
+            "gunsShotgun": "Guns (Shotgun)",
+            "gunsSMG": "Guns (SMG)",
+            "gunsTank": "Guns (Tank)"
+        },
+        "weapon": {
+            "skill": "SKILL:",
+            "damage": "DMG:",
+            "capacity": "CAP:",
+            "encumberanceValue": "EV:",
+            "range": "RANGE:",
+            "cost": "COST:"
+        }
+    }
+}
